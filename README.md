@@ -1,5 +1,8 @@
 # LearningPython
 
-The purpose of this repository is to get familiarised with github as a programmer 
+The purpose of this repository:
 
-To create and work on Projects
+Get familiarised with github as a programmer 
+
+Create and work on Projects
+
